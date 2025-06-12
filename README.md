@@ -24,4 +24,4 @@ The code should reside in '/var/www/html'
  
 Job1 : build 
 Job2: test 
-Job3 : prod
+Job3 : prod.
